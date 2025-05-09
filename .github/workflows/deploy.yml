@@ -24,8 +24,8 @@ jobs:
       - name: Build Angular project
         run: npx ng build --configuration production
 
-#      - name: Deploy to GitHub Pages
-#        uses: JamesIves/github-pages-deploy-action@v4
-#        with:
-#          branch: pages
-#          folder: dist/lifestyle-iwp-2025
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: pages
+          folder: dist/lifestyle-iwp-2025.github.io
