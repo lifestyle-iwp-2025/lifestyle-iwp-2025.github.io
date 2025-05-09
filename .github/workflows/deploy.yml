@@ -28,5 +28,5 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: pages
-          folder: dist/lifestyle-iwp-2025.github.io
+          folder: dist/lifestyle-iwp-2025.github.io/browser
           token: ${{ secrets.TOKEN }}
