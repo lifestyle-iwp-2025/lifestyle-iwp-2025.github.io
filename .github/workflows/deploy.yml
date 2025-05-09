@@ -29,3 +29,4 @@ jobs:
         with:
           branch: pages
           folder: dist/lifestyle-iwp-2025.github.io
+          token: ${{ secrets.TOKEN }}
