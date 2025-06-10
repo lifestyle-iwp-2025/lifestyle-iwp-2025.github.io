@@ -1,6 +1,7 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { SubPageComponent } from './sub-page.component';
+import { SubPageModule } from './sub-page.module';
 
 describe('SubPageComponent', () => {
   let component: SubPageComponent;
@@ -8,7 +9,7 @@ describe('SubPageComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [SubPageComponent]
+      imports: [SubPageModule]
     })
     .compileComponents();
     

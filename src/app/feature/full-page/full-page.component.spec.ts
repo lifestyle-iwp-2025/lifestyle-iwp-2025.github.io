@@ -1,6 +1,7 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { FullPageComponent } from './full-page.component';
+import { FullPageModule } from './full-page.module';
 
 describe('FullPageComponent', () => {
   let component: FullPageComponent;
@@ -8,7 +9,7 @@ describe('FullPageComponent', () => {
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      imports: [FullPageComponent]
+      imports: [FullPageModule]
     })
     .compileComponents();
     
