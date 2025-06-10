@@ -8,7 +8,7 @@ export const routes: Routes = [
   },
   {
     path: '',
-    redirectTo: '',
+    redirectTo: 'full-page',
     pathMatch: 'full'
   }
 ];
