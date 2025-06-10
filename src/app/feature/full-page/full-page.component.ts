@@ -19,7 +19,8 @@ export class FullPageComponent implements OnInit {
     // Workaround: Parameter aus der URL extrahieren
     const url = document.URL;
     const segments = url.split('/');
-    this.topic = segments[segments.length - 1] || null; // Nimmt den letzten Teil der URL
+    let segment: string = segments[segments.length - 1]; // Nimmt den letzten Teil der URL
+    this.topic = segment.slice(1, segment.length - 1);
     console.log('Extracted Topic:', this.topic);
 
     this.configService.getConfig().subscribe(value => {
