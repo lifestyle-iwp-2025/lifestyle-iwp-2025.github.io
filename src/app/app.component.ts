@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-import {FullPageComponent} from "./full-page/full-page.component";
+import {FullPageComponent} from "./feature/full-page/full-page.component";
 
 @Component({
   selector: 'app-root',

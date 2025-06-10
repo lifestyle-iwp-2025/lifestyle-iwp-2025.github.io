@@ -1,25 +1,20 @@
 import { NgModule } from '@angular/core';
-import { CommonModule } from '@angular/common';
-import {HttpClientModule} from "@angular/common/http";
-import {FullPageComponent} from "./full-page/full-page.component";
-import {MainPageComponent} from "./main-page/main-page.component";
-import {SubPageComponent} from "./sub-page/sub-page.component";
-import {AppComponent} from "./app.component";
-import {RouterOutlet} from "@angular/router";
-
-
+import { BrowserModule } from '@angular/platform-browser';
+import { AppComponent } from './app.component';
+import { RouterModule } from '@angular/router';
+import { routes } from './app.routes';
+import {CoreModule} from "./core/core.module";
+import {FullPageModule} from "./feature/full-page/full-page.module";
 
 @NgModule({
-  declarations: [
-    AppComponent,
-    FullPageComponent,
-    MainPageComponent,
-    SubPageComponent
-  ],
+  declarations: [AppComponent],
   imports: [
-    CommonModule,
-    HttpClientModule,
-    RouterOutlet
-  ]
+    BrowserModule,
+    RouterModule.forRoot(routes),
+    CoreModule,
+    FullPageModule
+  ],
+  providers: [],
+  bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule {}
