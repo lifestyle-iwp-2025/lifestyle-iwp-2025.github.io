@@ -1,0 +1,115 @@
+[
+  {
+    "title": "Paper Title",
+    "editor": "Max Mustermann",
+    "primaryColor": "#FFB6C1",
+    "secondaryColor": "#FFB6C1",
+    "backgroundColor": "#FFB6C1",
+    "structure": {
+      "title": "Paper Title",
+      "author": "Max Mustermann",
+      "introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "keyResult": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "posterLink": "https://example.com/poster.jpg"
+    }
+  },
+  {
+    "title": "Fashion",
+    "editor": "Max Mustermann",
+    "primaryColor": "#FFB6C1",
+    "secondaryColor": "#FFB6C1",
+    "backgroundColor": "#FFB6C1",
+    "structure": {
+      "title": "Paper Title",
+      "author": "Max Mustermann",
+      "introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "keyResult": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "posterLink": "https://example.com/poster.jpg"
+    }
+  },
+  {
+    "title": "Health",
+    "editor": "Max Mustermann",
+    "primaryColor": "#FFB6C1",
+    "secondaryColor": "#FFB6C1",
+    "backgroundColor": "#FFB6C1",
+    "structure": {
+      "title": "Paper Title",
+      "author": "Max Mustermann",
+      "introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "keyResult": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "posterLink": "https://example.com/poster.jpg"
+    }
+  },
+  {
+    "title": "Hobbies",
+    "editor": "Max Mustermann",
+    "primaryColor": "#FFB6C1",
+    "secondaryColor": "#FFB6C1",
+    "backgroundColor": "#FFB6C1",
+    "structure": {
+      "title": "Paper Title",
+      "author": "Max Mustermann",
+      "introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "keyResult": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "posterLink": "https://example.com/poster.jpg"
+    }
+  },
+  {
+    "title": "Housing",
+    "editor": "Max Mustermann",
+    "primaryColor": "#FFB6C1",
+    "secondaryColor": "#FFB6C1",
+    "backgroundColor": "#FFB6C1",
+    "structure": {
+      "title": "Paper Title",
+      "author": "Max Mustermann",
+      "introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "keyResult": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "posterLink": "https://example.com/poster.jpg"
+    }
+  },
+  {
+    "title": "Mental Health",
+    "editor": "Max Mustermann",
+    "primaryColor": "#FFB6C1",
+    "secondaryColor": "#FFB6C1",
+    "backgroundColor": "#FFB6C1",
+    "structure": {
+      "title": "Paper Title",
+      "author": "Max Mustermann",
+      "introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "keyResult": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "posterLink": "https://example.com/poster.jpg"
+    }
+  },
+  {
+    "title": "Sports",
+    "editor": "Max Mustermann",
+    "primaryColor": "#FFB6C1",
+    "secondaryColor": "#FFB6C1",
+    "backgroundColor": "#FFB6C1",
+    "structure": {
+      "title": "Paper Title",
+      "author": "Max Mustermann",
+      "introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "keyResult": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "posterLink": "https://example.com/poster.jpg"
+    }
+  },
+  {
+    "title": "About",
+    "editor": "Max Mustermann",
+    "primaryColor": "#FFB6C1",
+    "secondaryColor": "#FFB6C1",
+    "backgroundColor": "#FFB6C1",
+    "structure": {
+      "title": "Paper Title",
+      "author": "Max Mustermann",
+      "introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "keyResult": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "posterLink": "https://example.com/poster.jpg"
+    }
+  }
+
+]
