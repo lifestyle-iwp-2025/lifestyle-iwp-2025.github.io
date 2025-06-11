@@ -1,0 +1,33 @@
+.box {
+  margin-left: 15vw;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.box h1 {
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.italic {
+  font-style: italic;
+}
+
+#head {
+  margin-top: 15vh;
+  margin-bottom: 15vh;
+}
+
+.spacer {
+  height: 10vh;
+}
+
+#headerCover {
+  z-index: -99;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 70%;
+}

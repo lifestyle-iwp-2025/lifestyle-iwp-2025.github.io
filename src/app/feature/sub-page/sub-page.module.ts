@@ -1,10 +1,11 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { SubPageComponent } from './sub-page.component';
+import {SturctureBlockModule} from "../sturcture-block/sturcture-block.module";
 
 @NgModule({
   declarations: [SubPageComponent],
   exports: [SubPageComponent],
-  imports: [CommonModule]
+    imports: [CommonModule, SturctureBlockModule]
 })
 export class SubPageModule {}

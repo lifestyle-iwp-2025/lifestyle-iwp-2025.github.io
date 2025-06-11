@@ -6,3 +6,11 @@
 .footer-nav a {
   margin: 0 0.5rem;
 }
+
+.footer {
+  /*width: 97.9vw;*/
+  background-color: black;
+  color: white;
+  position: absolute;
+  left: 0;
+}

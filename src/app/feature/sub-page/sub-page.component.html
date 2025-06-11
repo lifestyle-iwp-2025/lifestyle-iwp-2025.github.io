@@ -1,1 +1,31 @@
-<p>sub-page works!</p>
+<!--<p>sub-page works!</p>-->
+
+<!--<div *ngIf="topicData">-->
+<!--  <h1>{{ topicData.topic }}</h1>-->
+<!--  <p>{{ topicData.editor }}</p>-->
+<!--  <ul>-->
+<!--    <li>{{ topicData.backgroundColor }}</li>-->
+<!--    <li>{{ topicData.primaryColor }}</li>-->
+<!--    <li>{{ topicData.secondaryColor }}</li>-->
+<!--  </ul>-->
+<!--</div>-->
+
+<div id="headerCover"></div>
+
+<div class="box">
+  <div id="head">
+    <p>{{topicData.topic}}</p>
+    <h1>{{topicData.structure.title}}</h1>
+    <p class="italic">{{topicData.structure.author}}</p>
+  </div>
+
+  <div class="spacer"></div>
+
+  <div *ngFor="let section of topicData.structure.sections">
+    <div *ngIf="section">
+      <app-sturcture-block [header]="section.title" [text]="section.content" [imageLink]="section.imageLink"></app-sturcture-block>
+    </div>
+  </div>
+
+  <div class="spacer"></div>
+</div>

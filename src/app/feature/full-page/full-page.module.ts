@@ -5,7 +5,7 @@ import { RouterModule, Routes } from '@angular/router';
 import { MainPageModule } from '../main-page/main-page.module';
 import { SubPageModule } from '../sub-page/sub-page.module';
 import {FooterModule} from "../footer/footer.module";
-import {NavbarModule} from "../../core/navbar/navbar.module";
+import {NavbarModule} from "../navbar/navbar.module";
 
 const routes: Routes = [
   { path: ':topic', component: FullPageComponent },

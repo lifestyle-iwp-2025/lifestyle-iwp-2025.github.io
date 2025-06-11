@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { ConfigService } from './config.service';
 import { HttpClientModule } from '@angular/common/http';
 import { CommonModule } from '@angular/common';
-import { NavbarModule } from './navbar/navbar.module';
+import { NavbarModule } from '../feature/navbar/navbar.module';
 
 @NgModule({
   declarations: [],

@@ -1,1 +1,40 @@
-<p>sturcture-block works!</p>
+<style>
+.sturcture-block {
+  width: max-content;
+  padding: 20px;
+  margin-top: 15vh;
+  margin-bottom: 15vh;
+}
+
+.sturcture-block h2 {
+  font-family: "Aleo", serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  text-transform: uppercase;
+}
+
+.sturcture-block p {
+  font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.sturcture-block .grid {
+  display: grid;
+  grid-template-columns: 90% 10%;
+  grid-gap: 20px;
+}
+
+
+</style>
+
+<div class="sturcture-block">
+
+<h2>{{header}}</h2>
+
+  <div class="grid">
+    <p>{{text}}</p>
+    <img *ngIf="imageLink" src="{{imageLink}}" alt="Bild welches eingefügt werden soll" />
+  </div>
+
+</div>
