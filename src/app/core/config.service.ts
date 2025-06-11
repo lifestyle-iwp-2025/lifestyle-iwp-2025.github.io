@@ -9,7 +9,7 @@ import { Observable } from 'rxjs';
 export class ConfigService {
   constructor(private http: HttpClient) {}
 
-  getConfig(): Observable<ConfigModel> {
-    return this.http.get<ConfigModel>('https://lifestyle-iwp-2025.github.io/data/config.json');
+  getConfig(): Observable<[ConfigModel]> {
+    return this.http.get<[ConfigModel]>('https://lifestyle-iwp-2025.github.io/data/config.json');
   }
 }
