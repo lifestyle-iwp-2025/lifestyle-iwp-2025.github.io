@@ -1,37 +1,37 @@
-name: Deploy Angular App to GitHub Pages
-
-on:
-  push:
-    branches:
-      - main
-
-jobs:
-  build-and-deploy:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 18
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Build Angular project
-        run: npx ng build --configuration production
-
-      - name: Copy config.json to build output
-        run: |
-          mkdir -p dist/lifestyle-iwp-2025.github.io/browser/data
-          cp data/config.json dist/lifestyle-iwp-2025.github.io/browser/data/
-
-      - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          branch: pages
-          folder: dist/lifestyle-iwp-2025.github.io/browser
-          token: ${{ secrets.TOKEN }}
+#name: Deploy Angular App to GitHub Pages
+#
+#on:
+#  push:
+#    branches:
+#      - main
+#
+#jobs:
+#  build-and-deploy:
+#    runs-on: ubuntu-latest
+#
+#    steps:
+#      - name: Checkout repository
+#        uses: actions/checkout@v4
+#
+#      - name: Setup Node.js
+#        uses: actions/setup-node@v4
+#        with:
+#          node-version: 18
+#
+#      - name: Install dependencies
+#        run: npm install
+#
+#      - name: Build Angular project
+#        run: npx ng build --configuration production
+#
+#      - name: Copy config.json to build output
+#        run: |
+#          mkdir -p dist/lifestyle-iwp-2025.github.io/browser/data
+#          cp data/config.json dist/lifestyle-iwp-2025.github.io/browser/data/
+#
+#      - name: Deploy to GitHub Pages
+#        uses: JamesIves/github-pages-deploy-action@v4
+#        with:
+#          branch: pages
+#          folder: dist/lifestyle-iwp-2025.github.io/browser
+#          token: ${{ secrets.TOKEN }}
