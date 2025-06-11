@@ -1,1 +1,33 @@
-<p>main-page works!</p>
+<div class="box">
+    <div id="head">
+        <h1>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
+            dolore magna aliquyam erat
+            FONT: Aleo</h1>
+    </div>
+
+    <div class="spacer"></div>
+    <div class="spacer"></div>
+
+    <div id="arrowDown">
+        <img src="assets/keyboard_arrow_down_100dp_00000_FILL0_wght400_GRAD0_opsz48.svg" alt="Arrow Down">
+    </div>
+
+    <div class="spacer"></div>
+
+    <div class="topics">
+        <div *ngFor="let topic of topicDataList">
+            <div class="topic">
+                <a href="https://lifestyle-iwp-2025.github.io/?{{topic.topic.toLowerCase()}}=">
+                <h2 class="topic-title">{{topic.topic}}</h2>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="spacer"></div>
+    <div class="spacer"></div>
+    <div class="spacer"></div>
+    <div class="spacer"></div>
+    <div class="spacer"></div>
+    <div class="spacer"></div>
+</div>

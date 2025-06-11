@@ -11,6 +11,7 @@ import {ConfigModel} from "../model/config.model";
 export class FullPageComponent implements OnInit {
   topic: string | null = null;
   topicData: ConfigModel | null = null;
+  topicDataList: ConfigModel[] = [];
 
   constructor(
     private route: ActivatedRoute,
@@ -25,6 +26,7 @@ export class FullPageComponent implements OnInit {
     this.topic = segment.slice(1, segment.length - 1);
 
     this.configService.getConfig().subscribe(value => {
+      this.topicDataList = value;
       value.forEach(value1 => {
         if (this.topic) {
           if (value1.topic.toLowerCase() === this.topic.toLowerCase()) {
