@@ -8,8 +8,18 @@
     "structure": {
       "title": "Paper Title",
       "author": "Max Mustermann",
-      "introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "keyResult": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "sections": [
+        {
+          "title": "Introduction",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "image": "https://example.com/image.jpg"
+        },
+        {
+          "title": "Key Results",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "image": "https://example.com/image.jpg"
+        }
+      ],
       "posterLink": "https://example.com/poster.jpg"
     }
   },
@@ -22,8 +32,18 @@
     "structure": {
       "title": "Paper Title",
       "author": "Max Mustermann",
-      "introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "keyResult": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "sections": [
+        {
+          "title": "Introduction",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "image": "https://example.com/image.jpg"
+        },
+        {
+          "title": "Key Results",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "image": "https://example.com/image.jpg"
+        }
+      ],
       "posterLink": "https://example.com/poster.jpg"
     }
   },
@@ -36,8 +56,18 @@
     "structure": {
       "title": "Cross-Cultural Differences in Mental Illness Stigma and Help-Seeking Attitudes in 16 Arab Countries",
       "author": "Feten Fekih‑Romdhane 1,2",
-      "introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "keyResult": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "sections": [
+        {
+          "title": "Introduction",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "image": "https://example.com/image.jpg"
+        },
+        {
+          "title": "Key Results",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "image": "https://example.com/image.jpg"
+        }
+      ],
       "posterLink": "https://example.com/poster.jpg"
     }
   },
@@ -50,8 +80,18 @@
     "structure": {
       "title": "Paper Title",
       "author": "Max Mustermann",
-      "introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "keyResult": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "sections": [
+        {
+          "title": "Introduction",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "image": "https://example.com/image.jpg"
+        },
+        {
+          "title": "Key Results",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "image": "https://example.com/image.jpg"
+        }
+      ],
       "posterLink": "https://example.com/poster.jpg"
     }
   },
@@ -64,8 +104,18 @@
     "structure": {
       "title": "Paper Title",
       "author": "Max Mustermann",
-      "introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "keyResult": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "sections": [
+        {
+          "title": "Introduction",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "image": "https://example.com/image.jpg"
+        },
+        {
+          "title": "Key Results",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "image": "https://example.com/image.jpg"
+        }
+      ],
       "posterLink": "https://example.com/poster.jpg"
     }
   },
@@ -78,8 +128,18 @@
     "structure": {
       "title": "Paper Title",
       "author": "Max Mustermann",
-      "introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "keyResult": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "sections": [
+        {
+          "title": "Introduction",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "image": "https://example.com/image.jpg"
+        },
+        {
+          "title": "Key Results",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "image": "https://example.com/image.jpg"
+        }
+      ],
       "posterLink": "https://example.com/poster.jpg"
     }
   },
@@ -92,8 +152,18 @@
     "structure": {
       "title": "Paper Title",
       "author": "Max Mustermann",
-      "introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "keyResult": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "sections": [
+        {
+          "title": "Introduction",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "image": "https://example.com/image.jpg"
+        },
+        {
+          "title": "Key Results",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "image": "https://example.com/image.jpg"
+        }
+      ],
       "posterLink": "https://example.com/poster.jpg"
     }
   },
@@ -106,8 +176,18 @@
     "structure": {
       "title": "Paper Title",
       "author": "Max Mustermann",
-      "introduction": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "keyResult": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "sections": [
+        {
+          "title": "Introduction",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "image": "https://example.com/image.jpg"
+        },
+        {
+          "title": "Key Results",
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "image": "https://example.com/image.jpg"
+        }
+      ],
       "posterLink": "https://example.com/poster.jpg"
     }
   }
