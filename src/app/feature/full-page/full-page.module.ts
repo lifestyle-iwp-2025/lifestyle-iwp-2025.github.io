@@ -4,6 +4,8 @@ import { FullPageComponent } from './full-page.component';
 import { RouterModule, Routes } from '@angular/router';
 import { MainPageModule } from '../main-page/main-page.module';
 import { SubPageModule } from '../sub-page/sub-page.module';
+import {FooterModule} from "../footer/footer.module";
+import {NavbarModule} from "../../core/navbar/navbar.module";
 
 const routes: Routes = [
   { path: ':topic', component: FullPageComponent },
@@ -17,7 +19,9 @@ const routes: Routes = [
     CommonModule,
     RouterModule.forChild(routes),
     MainPageModule,
-    SubPageModule
+    SubPageModule,
+    FooterModule,
+    NavbarModule
   ]
 })
 export class FullPageModule {}
