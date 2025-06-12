@@ -97,22 +97,37 @@
   },
   {
     "topic": "Housing",
-    "editor": "Max Mustermann",
-    "primaryColor": "#FFB6C1",
-    "secondaryColor": "#FFB6C1",
-    "backgroundColor": "#FFB6C1",
+    "editor": "Elisabeth Hentscholek",
+    "primaryColor": "#7E57C2",
+    "secondaryColor": "#D0C4E8",
+    "backgroundColor": "#F0EDF8",
     "structure": {
-      "title": "Paper Title",
-      "author": "Max Mustermann",
+      "title": "Housing as a Reflection of Culture",
+      "author": "Ritsuko Ozaki (2002)",
       "sections": [
         {
           "title": "Introduction",
-          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "content": "Houses are not just physical spaces but reflect cultural values through their layout, shaping social interactions, daily rituals and ideas of privacy. Focusing on England (Bracknell) and Japan (Kohoku New Town), this cross-cultural study examines how privatised living influences housing design.",
           "image": "https://example.com/image.jpg"
         },
         {
           "title": "Key Results",
-          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "content": "In England, housing design strongly reflects a focus on personal privacy and individual expression. This is evident in features such as en-suite bathrooms, individual bedrooms for each resident, and functional additions like utility rooms, garden sheds, and guest toilets. The home is viewed as a private retreat, with front gardens left open and visible, while the main garden at the back offers seclusion for residents. In contrast, Japanese homes emphasize family privacy and shared living, often featuring large, multi-purpose areas that combine kitchen, dining, and living spaces to promote warmth and togetherness. Gardens are designed for calm and atmosphere rather than activity, and houses are typically enclosed by fences to protect family privacy. Although the cultural focus remains on familial closeness, personal privacy has become more important in recent decades, as reflected in the growing adoption of Western-style bedrooms—from just 17% in the 1970s to 66% by the 1990s.",
+          "image": "https://example.com/image.jpg"
+        },
+        {
+          "title": "Methodology",
+          "content": "The study employed both quantitative and qualitative research methods. Quantitative analysis was based on the examination of house floor plans and furnishings, with a sample size of 146 in England and 123 in Japan. Statistical techniques such as T-tests, ANOVA, and Chi-square tests were used to analyze the data. On the qualitative side, structured interviews were conducted with 56 homeowners in England and 55 in Japan. These interviews included four key open-ended questions, addressing topics such as the ideal home and individual preferences or dislikes. The responses were systematically coded into 20 thematic categories, including privacy, space, family, and aesthetics.",
+          "image": "https://example.com/image.jpg"
+        },
+        {
+          "title": "Cultural Theory",
+          "content": "Geert Hofstede’s Cultural Dimensions Theory highlights cultural differences in the concept of privacy. Cultural attitudes toward privacy differ notably between England and Japan. In England, where individualism is strongly valued, there is a high emphasis on personal privacy, which is understood as having one’s own self-contained space. In contrast, Japan’s collectivistic culture, shaped by Confucian values, places greater importance on shared spaces and familial privacy. Here, privacy is defined less by individual separation and more by the intimacy and closeness within the family environment. Cultural attitudes toward privacy differ notably between England and Japan. In England, where individualism is strongly valued, there is a high emphasis on personal privacy, which is understood as having one’s own self-contained space. In contrast, Japan’s collectivistic culture, shaped by Confucian values, places greater importance on shared spaces and familial privacy. Here, privacy is defined less by individual separation and more by the intimacy and closeness within the family environment.",
+          "image": "https://example.com/image.jpg"
+        },
+        {
+          "title": "Conclusion",
+          "content": "The paper highlights how housing styles in England and Japan are deeply\ninfluenced by social and cultural values — especially differing ideas about\nprivacy and family life.\nWhile practical factors like climate, building techniques and cost do play a role in shaping homes, they are seen more as secondary influences rather than the main drivers of design.\nThe distinct cultural views on personal space and privacy are clearly\nreflected in the way homes are laid out, showing just how closely connected architecture is to the culture it comes from.",
           "image": "https://example.com/image.jpg"
         }
       ],
