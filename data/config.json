@@ -73,26 +73,41 @@
   },
   {
     "topic": "Hobbies",
-    "editor": "Max Mustermann",
-    "primaryColor": "#FFB6C1",
-    "secondaryColor": "#FFB6C1",
-    "backgroundColor": "#FFB6C1",
+    "editor": "Neysi Betuel Rivera Escobar",
+    "primaryColor": "#2F7D32",
+    "secondaryColor": "#C8E6CA",
+    "backgroundColor": "#EDF7EE",
     "structure": {
-      "title": "Paper Title",
-      "author": "Max Mustermann",
+      "title": "“Comparison of Senior Leisure Activities in China and \nthe United States from the Perspective of Cultural Differences”\n\n",
+      "author": "Shuang Yang, Sheling Ye, Haiyan Li (2022)",
       "sections": [
         {
           "title": "Introduction",
-          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "image": "https://example.com/image.jpg"
+          "content": "Cultural values strongly influence how older adults spend their free time. This poster compares daily leisure patterns among adults aged 55 and over in China and the United States, examining how factors like independence, family ties, and tradition shape indoor and outdoor activities.\n",
+          "image": "assets/Neysi_Bilder/older-people-walking.png"
+        },
+        {
+          "title": "Methodology",
+          "content": "For the purpose of this research a cross-cultural comparison was conducted using two distinct data sources to analyze leisure preferences among older adults. Primary data was collected in China via questionnaires in three communities in Hangzhou. In contrast, U.S. data was sourced from the American Time Use Survey (ATUS), a nationally representative dataset. \n",
+          "image": "assets/Neysi_Bilder/sample_size_comparison_horizontal_blue.png",
+          "imageExplanation": "Table 1: The chart illustrates the significant difference in sample sizes between the two countries. While China relied on a local sample of 192 individuals, the United States used national data from ATUS, representing tens of thousands of participants. \n",
+          "limitations": "A major limitation is the difference in sample size and data collection methods. The Chinese sample appears to be small and localized, whereas the US data are large and nationally representative. As a result, direct comparisons should be made with caution, and findings should be interpreted as descriptive rather than statistically equivalent. \n"
         },
         {
           "title": "Key Results",
-          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "image": "https://example.com/image.jpg"
+          "content": "The key findings highlight both similarities and differences in leisure activities between China and the United States. In both countries, watching TV is the most common indoor activity, while walking is the most frequent outdoor activity. However, there are distinct cultural differences. In China, leisure time often involves traditional group activities such as Taiji, sword dancing, and mahjong. Additionally, 23.4% of seniors in China use the internet, and leisure tends to be family-oriented and commonly takes place in community spaces. In contrast, in the United States, leisure is more focused on individual hobbies and physical activities like reading, going to the gym, or playing golf. There is also a strong emphasis on structured self-care and personal development, with greater value placed on independence than on community life."
+          },
+        {
+          "title": "Implications",
+          "content": "Leisure behavior in later life reflects cultural values. These findings suggest elderly services should adapt to cultural contexts. In China, fostering autonomy may enhance well-being, while in the U.S., promoting family- and community-based activities could strengthen social ties. Culturally informed planning is key to inclusive leisure programs.\n",
+          "image": "assets/Neysi_Bilder/sample_size_comparison_horizontal_blue.png"
+        },
+        {
+          "title": "Conclusion",
+          "content": "While seniors in both countries prefer walking and watching television, their motivations differ: American seniors seek independence, while Chinese seniors value family connection and tradition. Recognizing these patterns is essential for designing leisure initiatives that respect cultural differences and support diverse ageing needs.\n",
+          "image": "assets/Neysi_Bilder/sample_size_comparison_horizontal_blue.png"
         }
-      ],
-      "posterLink": "https://example.com/poster.jpg"
+      ],      "posterLink": "assets/Neysi_Bilder/Poster_IWP2IL_NeysiRivera_SeniorLeisure.pdf"
     }
   },
   {
@@ -196,26 +211,36 @@
 
   {
     "topic": "Sports",
-    "editor": "Max Mustermann",
-    "primaryColor": "#FFB6C1",
-    "secondaryColor": "#FFB6C1",
-    "backgroundColor": "#FFB6C1",
+    "editor": "Haja Sharifi",
+    "primaryColor": "#E7F3FD",
+    "secondaryColor": "#BBDEFA",
+    "backgroundColor": "#BBDEFA",
     "structure": {
-      "title": "Paper Title",
-      "author": "Max Mustermann",
+      "title": "Cross-Cultural Influence in Sports Behavior and Coaching",
+      "author": "- Carrington, B. (2015). Football, Identity – Japan & UK- Anderson & Li (2022). Coaching – Germany & China\n",
       "sections": [
         {
-          "title": "Introduction",
-          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "title": "Cultural Theories",
+          "content": "Sport is a global language—but how it is played, taught, and celebrated varies across cultures. Cross-cultural research helps us understand motivation, teamwork, leadership, and athlete development in global sport environments.\n",
+          "image": "https://example.com/download.jpg"
+        },
+        {
+          "title": ": Participant Sample",
+          "content": "220 partipants: Yorth athletes (14-22), Coaches (25-60), Media experts Countries: Germany, China, Japan, UK, USA, divese cultural backgrounds,\n",
           "image": "https://example.com/image.jpg"
         },
         {
-          "title": "Key Results",
-          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "image": "https://example.com/image.jpg"
+          "title": "Methods",
+          "content": "Surveys, interviews, training observation, media analysis. Cruss-cultural comparative design with thematic evaluation. A mixed-methods approach was used. Surveys gethered athlete perceptions; interviews revealed coaching strategies and cultural sensitivity. Observations in practice sessions and media analysis showed how culture influences communication and leadership.\n",
+          "image": "https://example.com/download.jpg"
+        },
+        {
+          "title": ": Reflective Loop & Synthesis",
+          "content": "Wath work in one culture might not in another. Reflctive leads to improved coaching steategies & intercultural awareness. A mixed-methods approach was used.\n",
+          "image": "Digramm sport.png"
         }
       ],
-      "posterLink": "https://example.com/poster.jpg"
+      "posterLink": "https://Poster Sport.png.com/poster.jpg"
     }
   },
   {
