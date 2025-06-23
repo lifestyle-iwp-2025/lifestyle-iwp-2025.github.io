@@ -8,4 +8,4 @@
     <app-sub-page [topicData]="topicData"></app-sub-page>
 </div>
 
-<app-footer></app-footer>
+<app-footer [footerColor]="topicData ? topicData.secondaryColor : '#BABABA'"></app-footer>

@@ -46,10 +46,20 @@
   text-align: center;
 }
 
-.topic {
+h2 {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 600;
+  width: 50vw;
+  word-break: break-word;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.topic a {
   height: 40vh;
-  background-color: aqua;
   display: flex;
   align-items: center;
   justify-content: center;
+  text-decoration: none;
+  color: black;
 }

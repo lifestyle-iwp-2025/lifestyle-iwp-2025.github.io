@@ -11,12 +11,23 @@ export class MainPageComponent implements OnInit{
 
     ngOnInit(): void {
         //TODO: idk wass ich hier machen soll
-        let topics = document.getElementsByClassName("topics");
-        console.log("Topics found: " + topics[0].children.length);
+      setTimeout(() => {
+        let topic = document.getElementsByClassName("topic");
+        console.log("Topics found: " + topic.length);
 
-        for (let i = 0; i < topics.length; i++) {
-            console.log(topics[i].innerHTML)
+        for (let i = 0; i < topic.length; i++) {
+          let split = topic[i].innerHTML.split(">");
+          let string =
+            split[0] + "style=\"background-color: " + this.topicDataList[i].secondaryColor + "\"" + ">";
+          for (let j = 1; j < split.length; j++) {
+            string += split[j];
+            if (j !== split.length - 1) {
+              string += ">";
+            }
+          }
+          topic[i].innerHTML = string;
         }
+      }, 350);
     }
 
 }
