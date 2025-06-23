@@ -1,5 +1,4 @@
 [
-
   {
     "topic": "Beauty",
     "editor": "Yaminia Gisela Pagoáda",
@@ -31,7 +30,7 @@
           "image": ""
         }
       ],
-      "posterLink": "assets/BIlderBeauty/PosterPresentation_2_Beauty_PagoadaYG"
+      "posterLink": "https://lifestyle-iwp-2025.github.io/doc/assets/research%20posters/PosterPresentation_2_Beauty_PagoadaYG.pdf"
     }
   },
 
@@ -71,12 +70,12 @@
           "image": "https://example.com/conclusion-image.jpg"
         }
       ],
-      "posterLink": "assets/Fashion/Fashion & Identity A Cross-Cultural Study between-5.png"
+      "posterLink": "https://lifestyle-iwp-2025.github.io/doc/assets/research%20posters/IWP%20-%20Fashion%20-%20Milena.pdf"
     }
   },
   {
     "topic": "Health",
-    "editor": "Max Mustermann",
+    "editor": "Lydia Reiter",
     "primaryColor": "#1976D3",
     "secondaryColor": "#BBDEFA",
     "backgroundColor": "#E7F3FD",
