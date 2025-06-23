@@ -1,4 +1,40 @@
 [
+
+  {
+    "topic": "Beauty",
+    "editor": "Yaminia Gisela Pagoáda",
+    "primaryColor": "#FE645A",
+    "secondaryColor": "#FFDAD1",
+    "backgroundColor": "#FFF3F0",
+    "structure": {
+      "title": "BEAUTY IS IN THE EYE OF BEHOLDER: INTRACULTURAL AND TRANSCULTURAL HETEROGENEITY OF INDIVIDUALS",
+      "author": "BY KAMAL FATEHI AND JENNIFER L. PRIESTLEY| HUTZSCHENREUTER, T., KLEINDIENST, I., & LANGE, S. (2019)",
+      "sections": [
+        {
+          "title": " Abstract and Cultural Theory",
+          "content": "The cultural theory discussed in the paper is “Mindscape Theory”, proposed by Magoroh Maruyama, where he defines \". . . a structure of reasoning, cognition, perception, conceptualization, design, planning, and decision making that may vary from one individual, profession, culture, or social group to another“. The core tenets of Mindscape Theory include intracultural heterogeneity, transcultural heterogeneity and dominance of certain types. Mindscape Theory is proposed as a critique of the common assumption of intracultural homogeneity prevalent in many cross-cultural studies, particularly those following the framework of Hofstede, which explains how cultural values differ between countries by identifying six dimensions, such as individualism vs. collectivism and power distance. In high power distance cultures, \npeople tend to accept authority and hierarchy, so leaders are expected to make decisions without much input. In individualistic cultures, people value independence and personal achievement, \nwhile collectivist cultures emphasize group harmony and loyalty. The connection between mindscape theory and beauty is that aesthetic preferences are used as a way to capture and understand the different mindscape types within and between cultures.",
+          "image": "assets/BIlderBeauty/IWP_Intracultural_Paper.png"
+        },
+        {
+          "title": "Sample: 220 Undergraduate Students",
+          "content": "Across 6 Countries: France, Jordan, Kazakhstan, Peru, South Korea, and the United States. The geographical diversity of the sample included Europe, the Middle East, Central Asia, South America, the Far East, and North America.",
+          "image": "assets/BIlderBeauty/Kreisdiagramm.jpg"
+        },
+        {
+          "title": "Methods",
+          "content": " 1) Factor analysis was used on individual responses to identify underlying patterns in the aesthetic ratings of the geometric shapes, aiming to ascertain if representations of mindscape types were present. 2) Pictorial-Geometric Survey (TOB Tests): Participants from six countries were asked to rate each of the 42 patterns on \na scale from 1 (ugly) to 7 (beautiful). 3) Heterogram Analysis: Construction of a correlation matrix based on the responses of all participants from the six countries \non the ugly-beauty scale.",
+          "image": "assets/BIlderBeauty/TOBTest_Sample.png"
+        },
+        {
+          "title": "Results and Conclusion",
+          "content": "The assumption of intracultural homogeneity is questionable. Many traditional cross cultural studies wrongly assume that members of a culture are largely homogeneous in their thinking and logic. This study provides empirical evidence for the existence of significant individual differences within cultures (intracultural heterogeneity). Additionally, the \"ugly\" to \"beautiful\" rating scale might be interpreted differently across cultures. The findings support ¹Maruyama's Mindscape Theory, which posits that individual differences in thinking and logic exist \nboth within and between cultures.",
+          "image": ""
+        }
+      ],
+      "posterLink": "assets/BIlderBeauty/PosterPresentation_2_Beauty_PagoadaYG"
+    }
+  },
+
   {
     "topic": "Fashion",
     "editor": "Max Mustermann",
@@ -147,41 +183,6 @@
         }
       ],
       "posterLink": "https://example.com/poster.jpg"
-    }
-  },
-
-  {
-    "topic": "Beauty",
-    "editor": "Yaminia Gisela Pagoáda",
-    "primaryColor": "#FE645A",
-    "secondaryColor": "#FFDAD1",
-    "backgroundColor": "#FFF3F0",
-    "structure": {
-      "title": "BEAUTY IS IN THE EYE OF BEHOLDER: INTRACULTURAL AND TRANSCULTURAL HETEROGENEITY OF INDIVIDUALS",
-      "author": "BY KAMAL FATEHI AND JENNIFER L. PRIESTLEY| HUTZSCHENREUTER, T., KLEINDIENST, I., & LANGE, S. (2019)",
-      "sections": [
-        {
-          "title": " Abstract and Cultural Theory",
-          "content": "The cultural theory discussed in the paper is “Mindscape Theory”, proposed by Magoroh Maruyama, where he defines \". . . a structure of reasoning, cognition, perception, conceptualization, design, planning, and decision making that may vary from one individual, profession, culture, or social group to another“. The core tenets of Mindscape Theory include intracultural heterogeneity, transcultural heterogeneity and dominance of certain types. Mindscape Theory is proposed as a critique of the common assumption of intracultural homogeneity prevalent in many cross-cultural studies, particularly those following the framework of Hofstede, which explains how cultural values differ between countries by identifying six dimensions, such as individualism vs. collectivism and power distance. In high power distance cultures, \npeople tend to accept authority and hierarchy, so leaders are expected to make decisions without much input. In individualistic cultures, people value independence and personal achievement, \nwhile collectivist cultures emphasize group harmony and loyalty. The connection between mindscape theory and beauty is that aesthetic preferences are used as a way to capture and understand the different mindscape types within and between cultures.",
-          "image": "assets/BIlderBeauty/IWP_Intracultural_Paper.png"
-        },
-        {
-          "title": "Sample: 220 Undergraduate Students",
-          "content": "Across 6 Countries: France, Jordan, Kazakhstan, Peru, South Korea, and the United States. The geographical diversity of the sample included Europe, the Middle East, Central Asia, South America, the Far East, and North America.",
-          "image": "assets/BIlderBeauty/Kreisdiagramm.jpg"
-        },
-        {
-          "title": "Methods",
-          "content": " 1) Factor analysis was used on individual responses to identify underlying patterns in the aesthetic ratings of the geometric shapes, aiming to ascertain if representations of mindscape types were present. 2) Pictorial-Geometric Survey (TOB Tests): Participants from six countries were asked to rate each of the 42 patterns on \na scale from 1 (ugly) to 7 (beautiful). 3) Heterogram Analysis: Construction of a correlation matrix based on the responses of all participants from the six countries \non the ugly-beauty scale.",
-          "image": "assets/BIlderBeauty/TOBTest_Sample.png"
-        },
-        {
-          "title": "Results and Conclusion",
-          "content": "The assumption of intracultural homogeneity is questionable. Many traditional cross cultural studies wrongly assume that members of a culture are largely homogeneous in their thinking and logic. This study provides empirical evidence for the existence of significant individual differences within cultures (intracultural heterogeneity). Additionally, the \"ugly\" to \"beautiful\" rating scale might be interpreted differently across cultures. The findings support ¹Maruyama's Mindscape Theory, which posits that individual differences in thinking and logic exist \nboth within and between cultures.",
-          "image": ""
-        }
-      ],
-      "posterLink": "assets/BIlderBeauty/PosterPresentation_2_Beauty_PagoadaYG"
     }
   },
 
