@@ -222,9 +222,9 @@
   {
     "topic": "About",
     "editor": "Max Mustermann",
-    "primaryColor": "#FFB6C1",
-    "secondaryColor": "#FFB6C1",
-    "backgroundColor": "#FFB6C1",
+    "primaryColor": "#BABABA",
+    "secondaryColor": "#BABABA",
+    "backgroundColor": "#BABABA",
     "structure": {
       "title": "Paper Title",
       "author": "Max Mustermann",
