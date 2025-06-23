@@ -164,9 +164,9 @@
   {
     "topic": "Mental-Health",
     "editor": "Max Mustermann",
-    "primaryColor": "#FFB6C1",
-    "secondaryColor": "#FFB6C1",
-    "backgroundColor": "#FFB6C1",
+    "primaryColor": "#F67C01",
+    "secondaryColor": "#FFE0B2",
+    "backgroundColor": "#FFF5E5",
     "structure": {
       "title": "Paper Title",
       "author": "Max Mustermann",
