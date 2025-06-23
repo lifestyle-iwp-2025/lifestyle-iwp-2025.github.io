@@ -1,10 +1,22 @@
 <footer class="footer">
-  <nav class="footer-nav">
-    <a >Home</a>
-    <a >Studies</a>
-    <a >Why IWP</a>
-    <a >Impressum</a>
-    <a >Datenschutz</a>
-  </nav>
-  <button class="back-top" type="button" (click)="scrollToTop()">Back to the top</button>
+  <div class="footer-container">
+    <div class="footer-column">
+      <a href="#">Link 1</a>
+      <a href="#">Link 2</a>
+      <a href="#">Link 3</a>
+    </div>
+    <div class="footer-column">
+      <a href="#">Home</a>
+      <a href="#">Studies</a>
+      <a href="#">Why IWP</a>
+    </div>
+    <div class="footer-column legal">
+      <a href="#">Impressum</a>
+      <a href="#">Datenschutz</a>
+    </div>
+    <div class="footer-column back-to-top-column">
+      <button class="back-to-top" type="button" (click)="scrollToTop()">&#8593;</button>
+      <div class="back-label">Back to top</div>
+    </div>
+  </div>
 </footer>
