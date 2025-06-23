@@ -37,26 +37,41 @@
 
   {
     "topic": "Fashion",
-    "editor": "Max Mustermann",
-    "primaryColor": "#FFB6C1",
-    "secondaryColor": "#FFB6C1",
-    "backgroundColor": "#FFB6C1",
+    "editor": "Milena Marinova",
+    "primaryColor": "#EC407A",
+    "secondaryColor": "#F9BBD0",
+    "backgroundColor": "#FDE8EF",
     "structure": {
-      "title": "Paper Title",
-      "author": "Max Mustermann",
+      "title": "Fashion & Identity: A cross cultural study between South Korea and Mongolia",
+      "author": "Sun Young Choi, Jeyeon Jo, Yuri Lee, Jisoo Ha & Joeun Lee",
       "sections": [
         {
           "title": "Introduction",
-          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "image": "https://example.com/image.jpg"
+          "content": "This study explores cultural differences in how millennial women from South Korea and Mongolia associate clothing with their self-identity. It highlights contrasting fashion perceptions between a global fashion leader and an understudied market.",
+          "image": "assets/Fashion/nations.png"
         },
         {
           "title": "Key Results",
-          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "image": "https://example.com/image.jpg"
+          "content": "The study surveyed 441 female university students aged 20–30. South Korean women were found to use fashion as a tool for self-expression and individuality, influenced by trends and social media. In contrast, Mongolian women view fashion as a reflection of tradition and social norms, often shaped by cultural heritage. South Korean fashion aligns with values of individualism and indulgence, whereas Mongolian fashion emphasizes collectivism and restraint. These insights suggest that fashion brands should tailor their strategies based on cultural values rather than using a one-size-fits-all approach.",
+          "image": "assets/Fashion/statistics.png"
+        },
+        {
+          "title": "Methodology",
+          "content": "The study used a quantitative research approach, gathering data through structured questionnaires from 441 female university students aged 20 to 30. Participants included 179 South Korean and 262 Mongolian millennials. Statistical comparison techniques were employed to analyze cultural attitudes and fashion-related behavior. The survey was designed to examine how young women in both countries connect fashion to their self-identity, considering cultural and societal influences.",
+          "image": "https://example.com/methodology-image.jpg"
+        },
+        {
+          "title": "Cultural Theory",
+          "content": "Geert Hofstede’s Cultural Dimensions Theory provides the framework for interpreting the cultural differences in fashion values between South Korea and Mongolia. South Korean society reflects higher levels of individualism and indulgence, which manifests in fashion as trend-driven, expressive, and self-identity focused. In contrast, Mongolia leans toward collectivism and restraint, where fashion is shaped by tradition, cultural heritage, and social expectations. These cultural dimensions influence how women in each country perceive and use clothing — as either a form of personal expression or as a reflection of collective values and continuity.",
+          "image": "assets/Fashion/girls.jpg"
+        },
+        {
+          "title": "Conclusion",
+          "content": "The study concludes that fashion is deeply influenced by cultural values, and that the perception and use of clothing vary significantly between South Korea and Mongolia. South Korean fashion prioritizes individuality and identity, influenced by global trends and media. In contrast, Mongolian fashion is more conservative, reflecting cultural tradition and social harmony. For fashion marketers, these findings underscore the importance of culturally tailored branding strategies and the risks of applying a one-size-fits-all approach to global audiences.",
+          "image": "https://example.com/conclusion-image.jpg"
         }
       ],
-      "posterLink": "https://example.com/poster.jpg"
+      "posterLink": "assets/Fashion/Fashion & Identity A Cross-Cultural Study between-5.png"
     }
   },
   {
