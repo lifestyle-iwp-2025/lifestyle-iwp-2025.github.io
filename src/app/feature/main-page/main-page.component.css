@@ -46,9 +46,8 @@
   text-align: center;
 }
 
-.topic {
+.topic a {
   height: 40vh;
-  background-color: aqua;
   display: flex;
   align-items: center;
   justify-content: center;
