@@ -23,6 +23,8 @@ ${t.map((r,o)=>`${o+1}) ${r.toString()}`).join(`
   font-family: "Jost", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
+  width: 50vw;
+  word-break: break-word;
 }
 
 .sturcture-block[_ngcontent-%COMP%]   .grid[_ngcontent-%COMP%] {
