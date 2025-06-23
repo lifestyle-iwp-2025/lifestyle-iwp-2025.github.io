@@ -27,7 +27,7 @@ export class MainPageComponent implements OnInit{
           }
           topic[i].innerHTML = string;
         }
-      }, 200);
+      }, 350);
     }
 
 }
