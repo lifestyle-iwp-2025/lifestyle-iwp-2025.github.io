@@ -1,29 +1,5 @@
 [
   {
-    "topic": "Topic Name",
-    "editor": "Max Mustermann",
-    "primaryColor": "#FFB6C1",
-    "secondaryColor": "#FFB6C1",
-    "backgroundColor": "#FFB6C1",
-    "structure": {
-      "title": "Paper Title",
-      "author": "Max Mustermann",
-      "sections": [
-        {
-          "title": "Introduction",
-          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "image": "https://example.com/image.jpg"
-        },
-        {
-          "title": "Key Results",
-          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "image": "https://example.com/image.jpg"
-        }
-      ],
-      "posterLink": "https://example.com/poster.jpg"
-    }
-  },
-  {
     "topic": "Fashion",
     "editor": "Max Mustermann",
     "primaryColor": "#FFB6C1",
