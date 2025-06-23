@@ -177,22 +177,37 @@
   },
   {
     "topic": "Mental-Health",
-    "editor": "Max Mustermann",
+    "editor": "Lena Antonia Wurmsdobler",
     "primaryColor": "#F67C01",
     "secondaryColor": "#FFE0B2",
     "backgroundColor": "#FFF5E5",
     "structure": {
-      "title": "Paper Title",
-      "author": "Max Mustermann",
+      "title": "Mental health literacy: a cross-cultural approach to knowledge and beliefs about depression, schizophrenia and generalized anxiety disorder",
+      "author": "Laura Altweck, Tara C. Marshall, Nelli Ferenczi and Katharina Lefringhausen",
       "sections": [
         {
-          "title": "Introduction",
-          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "title": "Introduction/Theory",
+          "content": "•\nBased on Hofstede‘s cultural dimensions (indivisualism vs. collectivism)\n•\nMental Health Literacy (MHL) =\nKnowledge and beliefs about mental disorders that help recognition, management, prevention\n•\nFocus on:\nDepression, Schizophrenia, Generalized Anxiety Disorder\n•\nImportance:\nUnderstanding how cultural context",
+          "image": ""
+        },
+        {
+          "title": "Research Questions",
+          "content": "•\nHow do MHL components differ between individualistic (USA) and\ncollectivistic (India) cultures?\n•\nHow does collectivism predict beliefs about causes and help-seeking?",
+          "image": ""
+        },
+        {
+          "title": "Methods",
+          "content": "Participants:\nUSA (N = 100, European Americans)\nIndia (N = 108, Indians)\nMeasures:\n•\nVignettes describing mental health symptoms\nScale measuring:\n•\nRecognition\n•\nCausal beliefs (social vs. biological)\n•\nLay help-seeking beliefs (family, friends, religious leaders)\n•\nProfessional help-seeking beliefs (GPs,",
           "image": ""
         },
         {
           "title": "Key Results",
-          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "content": "Recognition\nUSA participants are better at identifying mental disorders\nthan Indian participants\nCausal Beliefs\n•\nBoth cultures emphasized social causes over biological ones\n•\nBiological causes are less relevant in the Indian sample\nHelp-Seeking Beliefs\nIndia: Strong reliance on lay help (family, community, religious figures)\nUSA: More direct focus on professional help\nCollectivism effects:\n•\nIn India collectivism predicts lay help-seeking\n•\nIn the USA collectivism predicts stronger social causal beliefs\nStatistical Insights\n•\nRecognition predicts more positive professional help-seeking\n•\nIn India, lay help-seeking mediates between collectivism and\nprofessional help",
+          "image": ""
+        },
+        {
+          "title": "Conclusion",
+          "content": "This study shows that cultural context significantly shapes mental health literacy. In India, collectivism fosters reliance on lay help, which facilitates eventual professional help-seeking, while in the USA, collectivism\nmainly reinforces social causal beliefs, with more direct paths to\nprofessional services. Recognition of mental disorders emerges as a key factor for positive help-seeking attitudes across both cultures.\nThese findings highlight the need for culturally sensitive mental health\ninterventions that strengthen family and community networks in\ncollectivistic societies and improve access to\nprofessional services in individualistic ones. By addressing these\nculturally specific pathways, stigma can be reduced, and access to mental health care can be enhanced globally.",
           "image": ""
         }
       ],
