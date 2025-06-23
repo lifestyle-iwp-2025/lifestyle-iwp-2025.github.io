@@ -1,5 +1,4 @@
 [
-
   {
     "topic": "Beauty",
     "editor": "Yaminia Gisela Pagoáda",
@@ -31,10 +30,9 @@
           "image": ""
         }
       ],
-      "posterLink": "assets/BIlderBeauty/PosterPresentation_2_Beauty_PagoadaYG"
+      "posterLink": "https://lifestyle-iwp-2025.github.io/doc/assets/research%20posters/PosterPresentation_2_Beauty_PagoadaYG.pdf"
     }
   },
-
   {
     "topic": "Fashion",
     "editor": "Max Mustermann",
@@ -48,20 +46,20 @@
         {
           "title": "Introduction",
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "image": "https://example.com/image.jpg"
+          "image": ""
         },
         {
           "title": "Key Results",
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "image": "https://example.com/image.jpg"
+          "image": ""
         }
       ],
-      "posterLink": "https://example.com/poster.jpg"
+      "posterLink": "https://lifestyle-iwp-2025.github.io/doc/assets/research%20posters/IWP%20-%20Fashion%20-%20Milena.pdf"
     }
   },
   {
     "topic": "Health",
-    "editor": "Max Mustermann",
+    "editor": "Lydia Reiter",
     "primaryColor": "#1976D3",
     "secondaryColor": "#BBDEFA",
     "backgroundColor": "#E7F3FD",
@@ -72,15 +70,15 @@
         {
           "title": "Introduction",
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "image": "https://example.com/image.jpg"
+          "image": ""
         },
         {
           "title": "Key Results",
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "image": "https://example.com/image.jpg"
+          "image": ""
         }
       ],
-      "posterLink": "https://example.com/poster.jpg"
+      "posterLink": "https://lifestyle-iwp-2025.github.io/doc/assets/research%20posters/PosterLydiaReiter.pdf"
     }
   },
   {
@@ -108,7 +106,7 @@
         {
           "title": "Key Results",
           "content": "The key findings highlight both similarities and differences in leisure activities between China and the United States. In both countries, watching TV is the most common indoor activity, while walking is the most frequent outdoor activity. However, there are distinct cultural differences. In China, leisure time often involves traditional group activities such as Taiji, sword dancing, and mahjong. Additionally, 23.4% of seniors in China use the internet, and leisure tends to be family-oriented and commonly takes place in community spaces. In contrast, in the United States, leisure is more focused on individual hobbies and physical activities like reading, going to the gym, or playing golf. There is also a strong emphasis on structured self-care and personal development, with greater value placed on independence than on community life."
-          },
+        },
         {
           "title": "Implications",
           "content": "Leisure behavior in later life reflects cultural values. These findings suggest elderly services should adapt to cultural contexts. In China, fostering autonomy may enhance well-being, while in the U.S., promoting family- and community-based activities could strengthen social ties. Culturally informed planning is key to inclusive leisure programs.\n",
@@ -119,7 +117,8 @@
           "content": "While seniors in both countries prefer walking and watching television, their motivations differ: American seniors seek independence, while Chinese seniors value family connection and tradition. Recognizing these patterns is essential for designing leisure initiatives that respect cultural differences and support diverse ageing needs.\n",
           "image": "assets/Neysi_Bilder/sample_size_comparison_horizontal_blue.png"
         }
-      ],      "posterLink": "assets/Neysi_Bilder/Poster_IWP2IL_NeysiRivera_SeniorLeisure.pdf"
+      ],
+      "posterLink": "https://lifestyle-iwp-2025.github.io/doc/assets/research%20posters/Poster_IWP2IL_NeysiRivera_SeniorLeisure.pdf"
     }
   },
   {
@@ -135,30 +134,30 @@
         {
           "title": "Introduction",
           "content": "Houses are not just physical spaces but reflect cultural values through their layout, shaping social interactions, daily rituals and ideas of privacy. Focusing on England (Bracknell) and Japan (Kohoku New Town), this cross-cultural study examines how privatised living influences housing design.",
-          "image": "https://example.com/image.jpg"
+          "image": ""
         },
         {
           "title": "Key Results",
           "content": "In England, housing design strongly reflects a focus on personal privacy and individual expression. This is evident in features such as en-suite bathrooms, individual bedrooms for each resident, and functional additions like utility rooms, garden sheds, and guest toilets. The home is viewed as a private retreat, with front gardens left open and visible, while the main garden at the back offers seclusion for residents. In contrast, Japanese homes emphasize family privacy and shared living, often featuring large, multi-purpose areas that combine kitchen, dining, and living spaces to promote warmth and togetherness. Gardens are designed for calm and atmosphere rather than activity, and houses are typically enclosed by fences to protect family privacy. Although the cultural focus remains on familial closeness, personal privacy has become more important in recent decades, as reflected in the growing adoption of Western-style bedrooms—from just 17% in the 1970s to 66% by the 1990s.",
-          "image": "https://example.com/image.jpg"
+          "image": ""
         },
         {
           "title": "Methodology",
           "content": "The study employed both quantitative and qualitative research methods. Quantitative analysis was based on the examination of house floor plans and furnishings, with a sample size of 146 in England and 123 in Japan. Statistical techniques such as T-tests, ANOVA, and Chi-square tests were used to analyze the data. On the qualitative side, structured interviews were conducted with 56 homeowners in England and 55 in Japan. These interviews included four key open-ended questions, addressing topics such as the ideal home and individual preferences or dislikes. The responses were systematically coded into 20 thematic categories, including privacy, space, family, and aesthetics.",
-          "image": "https://example.com/image.jpg"
+          "image": ""
         },
         {
           "title": "Cultural Theory",
           "content": "Geert Hofstede’s Cultural Dimensions Theory highlights cultural differences in the concept of privacy. Cultural attitudes toward privacy differ notably between England and Japan. In England, where individualism is strongly valued, there is a high emphasis on personal privacy, which is understood as having one’s own self-contained space. In contrast, Japan’s collectivistic culture, shaped by Confucian values, places greater importance on shared spaces and familial privacy. Here, privacy is defined less by individual separation and more by the intimacy and closeness within the family environment. Cultural attitudes toward privacy differ notably between England and Japan. In England, where individualism is strongly valued, there is a high emphasis on personal privacy, which is understood as having one’s own self-contained space. In contrast, Japan’s collectivistic culture, shaped by Confucian values, places greater importance on shared spaces and familial privacy. Here, privacy is defined less by individual separation and more by the intimacy and closeness within the family environment.",
-          "image": "https://example.com/image.jpg"
+          "image": ""
         },
         {
           "title": "Conclusion",
           "content": "The paper highlights how housing styles in England and Japan are deeply\ninfluenced by social and cultural values — especially differing ideas about\nprivacy and family life.\nWhile practical factors like climate, building techniques and cost do play a role in shaping homes, they are seen more as secondary influences rather than the main drivers of design.\nThe distinct cultural views on personal space and privacy are clearly\nreflected in the way homes are laid out, showing just how closely connected architecture is to the culture it comes from.",
-          "image": "https://example.com/image.jpg"
+          "image": ""
         }
       ],
-      "posterLink": "https://example.com/poster.jpg"
+      "posterLink": "https://lifestyle-iwp-2025.github.io/doc/assets/research%20posters/hentscholek-iwp-research-poster-lifestyle-housing-v2.pdf"
     }
   },
   {
@@ -174,18 +173,17 @@
         {
           "title": "Introduction",
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "image": "https://example.com/image.jpg"
+          "image": ""
         },
         {
           "title": "Key Results",
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "image": "https://example.com/image.jpg"
+          "image": ""
         }
       ],
-      "posterLink": "https://example.com/poster.jpg"
+      "posterLink": "https://lifestyle-iwp-2025.github.io/doc/assets/research%20posters/Research%20Poster_v1.pdf"
     }
   },
-
   {
     "topic": "Sports",
     "editor": "Haja Sharifi",
@@ -204,7 +202,7 @@
         {
           "title": ": Participant Sample",
           "content": "220 partipants: Yorth athletes (14-22), Coaches (25-60), Media experts Countries: Germany, China, Japan, UK, USA, divese cultural backgrounds,\n",
-          "image": "https://example.com/image.jpg"
+          "image": ""
         },
         {
           "title": "Methods",
@@ -217,7 +215,7 @@
           "image": "Digramm sport.png"
         }
       ],
-      "posterLink": "https://Poster Sport.png.com/poster.jpg"
+      "posterLink": "https://lifestyle-iwp-2025.github.io/doc/assets/research%20posters/Final_Thematic_Poster_Cross_Cultural_Sports.pdf"
     }
   },
   {
@@ -233,16 +231,15 @@
         {
           "title": "Introduction",
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "image": "https://example.com/image.jpg"
+          "image": ""
         },
         {
           "title": "Key Results",
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "image": "https://example.com/image.jpg"
+          "image": ""
         }
       ],
       "posterLink": "https://example.com/poster.jpg"
     }
   }
-
 ]
