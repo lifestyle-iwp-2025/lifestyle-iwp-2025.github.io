@@ -187,12 +187,12 @@
       "sections": [
         {
           "title": "Introduction/Theory",
-          "content": "•\nBased on Hofstede‘s cultural dimensions (indivisualism vs. collectivism)\n•\nMental Health Literacy (MHL) =\nKnowledge and beliefs about mental disorders that help recognition, management, prevention\n•\nFocus on:\nDepression, Schizophrenia, Generalized Anxiety Disorder\n•\nImportance:\nUnderstanding how cultural context",
+          "content": "•Based on Hofstede‘s cultural dimensions (indivisualism vs. collectivism)\n•\nMental Health Literacy (MHL) =\nKnowledge and beliefs about mental disorders that help recognition, management, prevention\n•\nFocus on:\nDepression, Schizophrenia, Generalized Anxiety Disorder\n•\nImportance:\nUnderstanding how cultural context",
           "image": ""
         },
         {
           "title": "Research Questions",
-          "content": "•\nHow do MHL components differ between individualistic (USA) and\ncollectivistic (India) cultures?\n•\nHow does collectivism predict beliefs about causes and help-seeking?",
+          "content": "•How do MHL components differ between individualistic (USA) and\ncollectivistic (India) cultures?\n•\nHow does collectivism predict beliefs about causes and help-seeking?",
           "image": ""
         },
         {
@@ -204,6 +204,16 @@
           "title": "Key Results",
           "content": "Recognition\nUSA participants are better at identifying mental disorders\nthan Indian participants\nCausal Beliefs\n•\nBoth cultures emphasized social causes over biological ones\n•\nBiological causes are less relevant in the Indian sample\nHelp-Seeking Beliefs\nIndia: Strong reliance on lay help (family, community, religious figures)\nUSA: More direct focus on professional help\nCollectivism effects:\n•\nIn India collectivism predicts lay help-seeking\n•\nIn the USA collectivism predicts stronger social causal beliefs\nStatistical Insights\n•\nRecognition predicts more positive professional help-seeking\n•\nIn India, lay help-seeking mediates between collectivism and\nprofessional help",
           "image": ""
+        },
+        {
+          "title": "MHL Components by Culture",
+          "content": "",
+          "image": "assets/Mental_Health/MHL_barchart.png"
+        },
+        {
+          "title": "Cultural Pathways to Help-Seeking in India",
+          "content": "",
+          "image": "assets/Mental_Health/MHL_Flowchart.png"
         },
         {
           "title": "Conclusion",
