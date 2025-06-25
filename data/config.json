@@ -83,13 +83,38 @@
       "author": "Feten Fekih‑Romdhane 1,2",
       "sections": [
         {
-          "title": "Introduction",
-          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "title": "Background",
+          "content": "Mental health stigma is a global concern. In the Arab world, sociocultural beliefs and religious explanations often influence public attitudes and help-seeking behaviors.",
+          "image": ""
+        },
+        {
+          "title": "Objectives",
+          "content": "This study aimed to explore:  • Levels of stigma and knowledge about mental illness\u2028 • Help-seeking preferences\u2028 • Cultural and country-level differences in attitudes\u2028 • Predictors of help-seeking behavior",
+          "image": ""
+        },
+        {
+          "title": "Methodology",
+          "content": "online survey in 16 Arab countries\nN = 10,036 \nArabic-speaking, 18+ years\u2028\nTools: CAMI, MAKS, ATSPPH-SF\u2028\nAnalysis: ANOVA and hierarchical regression",
+          "image": ""
+        },
+        {
+          "title": "Cultural Theory",
+          "content": "Findings reflect key aspects of Hofstede’s dimensions:\nCollectivism → Preference for family/religious support  \nHigh power distance → Less formal help-seeking  \nUncertainty avoidance → Supernatural explanations (e.g., Jinn)\nThese traits shape stigma and help-seeking in Arab cultures.\n",
+          "image": ""
+        },
+        {
+          "title": "Sample Description",
+          "content": "N = 10,036 Arabic-speaking adults (18+)  \n \nFrom 16 Arab countries (e.g., Egypt, Lebanon, Sudan)\n\n77% female · 85% urban · 89% tertiary education  \n\nRecruited via social media (Facebook, WhatsApp, \nInstagram)\n",
           "image": ""
         },
         {
           "title": "Key Results",
-          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "content": "26.5% showed stigmatizing attitudes\n \n31.7% had low mental health knowledge  \n \n28.0% held negative help-seeking attitudes  \n \nSupernatural beliefs predicted lower help-seeking  \n \nCountry differences were significant (e.g., Sudan vs. Palestine)",
+          "image": ""
+        },
+        {
+          "title": "Implications",
+          "content": "Mental health campaigns must be culturally tailored\n \nEducation can reduce stigma and improve knowledge  \n \nReligious and traditional narratives should be considered\n",
           "image": ""
         }
       ],
