@@ -285,21 +285,16 @@
   },
   {
     "topic": "About",
-    "editor": "Max Mustermann",
+    "editor": "All",
     "primaryColor": "#BABABA",
     "secondaryColor": "#BABABA",
     "backgroundColor": "#BABABA",
     "structure": {
-      "title": "Paper Title",
-      "author": "Max Mustermann",
+      "title": "IWP Lifestyle",
+      "author": "Yaminia Gisela Pagoáda, Elisabeth Hentscholek, Haja Sharifi, Neysi Betuel Rivera Escobar, Milena Marinova, Lydia Reiter, Lena Antonia Wurmsdobler",
       "sections": [
         {
           "title": "Introduction",
-          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "image": ""
-        },
-        {
-          "title": "Key Results",
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
           "image": ""
         }
