@@ -83,13 +83,38 @@
       "author": "Feten Fekih‑Romdhane 1,2",
       "sections": [
         {
-          "title": "Introduction",
-          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "title": "Background",
+          "content": "Mental health stigma is a global concern. In the Arab world, sociocultural beliefs and religious explanations often influence public attitudes and help-seeking behaviors.",
+          "image": ""
+        },
+        {
+          "title": "Objectives",
+          "content": "This study aimed to explore:  • Levels of stigma and knowledge about mental illness\u2028 • Help-seeking preferences\u2028 • Cultural and country-level differences in attitudes\u2028 • Predictors of help-seeking behavior",
+          "image": ""
+        },
+        {
+          "title": "Methodology",
+          "content": "online survey in 16 Arab countries\nN = 10,036 \nArabic-speaking, 18+ years\u2028\nTools: CAMI, MAKS, ATSPPH-SF\u2028\nAnalysis: ANOVA and hierarchical regression",
+          "image": ""
+        },
+        {
+          "title": "Cultural Theory",
+          "content": "Findings reflect key aspects of Hofstede’s dimensions:\nCollectivism → Preference for family/religious support  \nHigh power distance → Less formal help-seeking  \nUncertainty avoidance → Supernatural explanations (e.g., Jinn)\nThese traits shape stigma and help-seeking in Arab cultures.\n",
+          "image": ""
+        },
+        {
+          "title": "Sample Description",
+          "content": "N = 10,036 Arabic-speaking adults (18+)  \n \nFrom 16 Arab countries (e.g., Egypt, Lebanon, Sudan)\n\n77% female · 85% urban · 89% tertiary education  \n\nRecruited via social media (Facebook, WhatsApp, \nInstagram)\n",
           "image": ""
         },
         {
           "title": "Key Results",
-          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "content": "26.5% showed stigmatizing attitudes\n \n31.7% had low mental health knowledge  \n \n28.0% held negative help-seeking attitudes  \n \nSupernatural beliefs predicted lower help-seeking  \n \nCountry differences were significant (e.g., Sudan vs. Palestine)",
+          "image": ""
+        },
+        {
+          "title": "Implications",
+          "content": "Mental health campaigns must be culturally tailored\n \nEducation can reduce stigma and improve knowledge  \n \nReligious and traditional narratives should be considered\n",
           "image": ""
         }
       ],
@@ -143,7 +168,7 @@
     "secondaryColor": "#D0C4E8",
     "backgroundColor": "#F0EDF8",
     "structure": {
-      "title": "Housing as a Reflection of Culture",
+      "title": "Housing as a Reflection of Culture: Privatised Living and Privacy in England and Japan",
       "author": "Ritsuko Ozaki (2002)",
       "sections": [
         {
@@ -177,22 +202,47 @@
   },
   {
     "topic": "Mental-Health",
-    "editor": "Max Mustermann",
+    "editor": "Lena Antonia Wurmsdobler",
     "primaryColor": "#F67C01",
     "secondaryColor": "#FFE0B2",
     "backgroundColor": "#FFF5E5",
     "structure": {
-      "title": "Paper Title",
-      "author": "Max Mustermann",
+      "title": "Mental health literacy: a cross-cultural approach to knowledge and beliefs about depression, schizophrenia and generalized anxiety disorder",
+      "author": "Laura Altweck, Tara C. Marshall, Nelli Ferenczi and Katharina Lefringhausen",
       "sections": [
         {
-          "title": "Introduction",
-          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "title": "Introduction/Theory",
+          "content": "•Based on Hofstede‘s cultural dimensions (indivisualism vs. collectivism)\n•\nMental Health Literacy (MHL) =\nKnowledge and beliefs about mental disorders that help recognition, management, prevention\n•\nFocus on:\nDepression, Schizophrenia, Generalized Anxiety Disorder\n•\nImportance:\nUnderstanding how cultural context",
+          "image": ""
+        },
+        {
+          "title": "Research Questions",
+          "content": "•How do MHL components differ between individualistic (USA) and\ncollectivistic (India) cultures?\n•\nHow does collectivism predict beliefs about causes and help-seeking?",
+          "image": ""
+        },
+        {
+          "title": "Methods",
+          "content": "Participants:\nUSA (N = 100, European Americans)\nIndia (N = 108, Indians)\nMeasures:\n•\nVignettes describing mental health symptoms\nScale measuring:\n•\nRecognition\n•\nCausal beliefs (social vs. biological)\n•\nLay help-seeking beliefs (family, friends, religious leaders)\n•\nProfessional help-seeking beliefs (GPs,",
           "image": ""
         },
         {
           "title": "Key Results",
-          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "content": "Recognition\nUSA participants are better at identifying mental disorders\nthan Indian participants\nCausal Beliefs\n•\nBoth cultures emphasized social causes over biological ones\n•\nBiological causes are less relevant in the Indian sample\nHelp-Seeking Beliefs\nIndia: Strong reliance on lay help (family, community, religious figures)\nUSA: More direct focus on professional help\nCollectivism effects:\n•\nIn India collectivism predicts lay help-seeking\n•\nIn the USA collectivism predicts stronger social causal beliefs\nStatistical Insights\n•\nRecognition predicts more positive professional help-seeking\n•\nIn India, lay help-seeking mediates between collectivism and\nprofessional help",
+          "image": ""
+        },
+        {
+          "title": "MHL Components by Culture",
+          "content": "",
+          "image": "assets/Mental_Health/MHL_barchart.png"
+        },
+        {
+          "title": "Cultural Pathways to Help-Seeking in India",
+          "content": "",
+          "image": "assets/Mental_Health/MHL_Flowchart.png"
+        },
+        {
+          "title": "Conclusion",
+          "content": "This study shows that cultural context significantly shapes mental health literacy. In India, collectivism fosters reliance on lay help, which facilitates eventual professional help-seeking, while in the USA, collectivism\nmainly reinforces social causal beliefs, with more direct paths to\nprofessional services. Recognition of mental disorders emerges as a key factor for positive help-seeking attitudes across both cultures.\nThese findings highlight the need for culturally sensitive mental health\ninterventions that strengthen family and community networks in\ncollectivistic societies and improve access to\nprofessional services in individualistic ones. By addressing these\nculturally specific pathways, stigma can be reduced, and access to mental health care can be enhanced globally.",
           "image": ""
         }
       ],
@@ -215,7 +265,7 @@
           "image": "https://example.com/download.jpg"
         },
         {
-          "title": ": Participant Sample",
+          "title": "Participant Sample",
           "content": "220 partipants: Yorth athletes (14-22), Coaches (25-60), Media experts Countries: Germany, China, Japan, UK, USA, divese cultural backgrounds,\n",
           "image": ""
         },
@@ -225,7 +275,7 @@
           "image": "https://example.com/download.jpg"
         },
         {
-          "title": ": Reflective Loop & Synthesis",
+          "title": "Reflective Loop & Synthesis",
           "content": "Wath work in one culture might not in another. Reflctive leads to improved coaching steategies & intercultural awareness. A mixed-methods approach was used.\n",
           "image": "Digramm sport.png"
         }
@@ -235,22 +285,17 @@
   },
   {
     "topic": "About",
-    "editor": "Max Mustermann",
+    "editor": "All",
     "primaryColor": "#BABABA",
     "secondaryColor": "#BABABA",
     "backgroundColor": "#BABABA",
     "structure": {
-      "title": "Paper Title",
-      "author": "Max Mustermann",
+      "title": "IWP Lifestyle",
+      "author": "Yaminia Gisela Pagoáda, Elisabeth Hentscholek, Haja Sharifi, Neysi Betuel Rivera Escobar, Milena Marinova, Lydia Reiter, Lena Antonia Wurmsdobler",
       "sections": [
         {
-          "title": "Introduction",
-          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-          "image": ""
-        },
-        {
-          "title": "Key Results",
-          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "title": "Us",
+          "content": "Hey there! We’re seven students in our second semester of the Design of Digital Products program. \nAs part of our IWP course, we created this website – IWP Lifestyle – to explore how everyday life looks different across cultures.\n\nEach of us chose a research paper on a specific lifestyle topic like hobbies, housing, mental health, sports, fashion, beauty, or general health. We focused on different countries – from Japan to South Africa to Germany – and turned our findings into something that’s easy to read, student-friendly, and visually engaging.\n\nThe idea behind our project?\n“Different” doesn’t mean “wrong.”\nLooking at cultural differences – even in the small stuff – helps open our minds. For students, that means staying curious, asking questions, avoiding quick judgments, and being open to learning from other perspectives.\n\nEvery topic on our site has its own color scheme and vibe, but they all come together with the same goal: to make cross-cultural thinking part of everyday student life.",
           "image": ""
         }
       ],
