@@ -51,12 +51,12 @@
         {
           "title": "Key Results",
           "content": "The study surveyed 441 female university students aged 20–30. South Korean women were found to use fashion as a tool for self-expression and individuality, influenced by trends and social media. In contrast, Mongolian women view fashion as a reflection of tradition and social norms, often shaped by cultural heritage. South Korean fashion aligns with values of individualism and indulgence, whereas Mongolian fashion emphasizes collectivism and restraint. These insights suggest that fashion brands should tailor their strategies based on cultural values rather than using a one-size-fits-all approach.",
-          "image": "assets/Fashion/statistics.png"
+          "image": "assets/Fashion/findings.png"
         },
         {
           "title": "Methodology",
           "content": "The study used a quantitative research approach, gathering data through structured questionnaires from 441 female university students aged 20 to 30. Participants included 179 South Korean and 262 Mongolian millennials. Statistical comparison techniques were employed to analyze cultural attitudes and fashion-related behavior. The survey was designed to examine how young women in both countries connect fashion to their self-identity, considering cultural and societal influences.",
-          "image": "https://example.com/methodology-image.jpg"
+          "image": "assets/Fashion/statistics.png"
         },
         {
           "title": "Cultural Theory",
@@ -66,10 +66,10 @@
         {
           "title": "Conclusion",
           "content": "The study concludes that fashion is deeply influenced by cultural values, and that the perception and use of clothing vary significantly between South Korea and Mongolia. South Korean fashion prioritizes individuality and identity, influenced by global trends and media. In contrast, Mongolian fashion is more conservative, reflecting cultural tradition and social harmony. For fashion marketers, these findings underscore the importance of culturally tailored branding strategies and the risks of applying a one-size-fits-all approach to global audiences.",
-          "image": "https://example.com/conclusion-image.jpg"
+          "image": "assets/Fashion/clothess.jpeg"
         }
       ],
-      "posterLink": "https://lifestyle-iwp-2025.github.io/doc/assets/research%20posters/IWP%20-%20Fashion%20-%20Milena.pdf"
+      "posterLink": "assets/Fashion/poster.new.png"
     }
   },
   {
