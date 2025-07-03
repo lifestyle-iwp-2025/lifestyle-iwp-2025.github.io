@@ -16,6 +16,6 @@
   </div>
 
   <div class="spacer"></div>
-  <app-poster-button [link]="topicData.structure.posterLink" [backgroundColor]="topicData.secondaryColor"></app-poster-button>
+  <app-poster-button *ngIf="topicData.structure.posterLink || topicData.topic.toLowerCase() == 'About'.toLowerCase()" [link]="topicData.structure.posterLink" [backgroundColor]="topicData.secondaryColor"></app-poster-button>
   <div class="spacer"></div>
 </div>
